@@ -1,0 +1,6 @@
+{
+  "name": "Single-Product Business Manager",
+  "description": "A clean, professional management system for single-product businesses with automated batch inventory, sales, customer accounts, and profit reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
